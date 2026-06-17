@@ -1,42 +1,28 @@
-<b><p>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Aļģis!</p></b>
+# Hi, I am Algis Bernatovics
 
-👀 I'm a Software Developer based in Latvia.
-Focus on the principles and practices of software development, including agile methodologies,
-version control,software testing, and project management.
-<hr>
-<b>Explore my latest projects here:</b><br><br>
+I am a software developer based in Latvia, focused on building practical web applications, backend workflows, and clean user-facing interfaces.
 
-<li><a href="https://github.com/algisbernatovics/my-bank">
-  My Bank</a><p>Internetbank application writed in Laravel framework, with users, money accounts in different currencys.Use of API to convert amount of money from the sender's account to the recipient's account, as well as the ability to buy and sell cryptocurrencies and view transaction history.
+## Featured Projects
 
-<li><a href="https://github.com/algisbernatovics/rick-and-morty">
-  Rick and Morty</a><p>Easily review all the locations,characters and episodes of Rick and Morty in a beautiful design.
-  Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling.
+- [AI Trading Dashboard](https://github.com/algisbernatovics/ai-trading-dashboard) - Laravel dashboard for trading agents, backtests, analytics, recovery controls, and AI model management.
+- [Lite Tube Next.js](https://github.com/algisbernatovics/lite-tube-nextjs) - ad-light YouTube viewing experience built with Next.js, React, and YouTube data handling.
+- [Rick and Morty Next.js](https://github.com/algisbernatovics/rick-and-morty-nextjs) - TypeScript/Next.js explorer for characters, locations, and episodes from the Rick and Morty API.
+- [Laravel Banking App](https://github.com/algisbernatovics/laravel-banking-app) - internet banking demo with accounts, currencies, transactions, and authentication flows.
+- [Article Feed App](https://github.com/algisbernatovics/article-feed-app) - PHP MVC article platform using routing, Twig templates, SQL data, and JSONPlaceholder-style content.
 
-<li><a href="https://github.com/algisbernatovics/article-site">Article Site</a><p>
-  Article Site:Articles,Users and Comments using SQL DB, also working With JSONPlaceHolder API.
-  Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine.
-  </p></li>
+## What I Work With
 
-<hr>
- If you're looking for a dedicated programmer who can drive technological advancements and deliver exceptional results,
-  get in touch! I'd be happy to discuss potential collaborations, projects or job opportunities.<br>
-  <hr>
-  <b>📫Reach me</b><a href="https://www.linkedin.com/in/algisbernatovics" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIN" height="40" style="max-width: 100%;">
-</a>
-<a href="mailto:algis.bernatovics@gmail.com" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="LinkedIN" height="40" style="max-width: 100%;"></a>
-<hr>
+- PHP, Laravel, Composer, PHPUnit
+- JavaScript, TypeScript, React, Next.js
+- MySQL, PostgreSQL, SQL data modeling
+- Tailwind CSS, Vite, API integrations
+- Linux, Bash, Git, Nginx
 
-<b>🧰 Toolbox</b>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" alt="PHPStorm" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSql" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+## Portfolio Focus
 
-<hr>
+My repositories include full-stack web apps, API clients, Laravel dashboards, Next.js interfaces, and small algorithm exercises. I use them to document learning progress, implementation style, and practical problem solving.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/algisbernatovics
+- Email: algis.bernatovics@gmail.com
